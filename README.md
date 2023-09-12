@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chirag Kukreja
 - 👀 I’m interested in DevOps and Cloud Technlogies 
-- 🌱 I’m currently learning K8s
+- 🌱 I’m currently learning K8s and Big Data Tech Stack
 - 💞️ I’m looking to collaborate on DevOps Technologies like Terraform,Jenkins,Ansible,Linux, AWS, Dockers and K8s
 - 📫 How to reach me Chirag.kukreja24@gmail.com
 
